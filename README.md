@@ -13,6 +13,6 @@ UN blog increible para el curso de[ Git y Github de PLatzi](http://https://platz
 >- Freddy's multiples personalities 
 >- Created for PLatzi team
 >- Includes examples on Windows, Linux and Mac
-
+>- Available to all ages
 
 This readme was created for *eduational and learning purposes*
