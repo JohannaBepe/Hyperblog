@@ -4,11 +4,13 @@ UN blog increible para el curso de[ Git y Github de PLatzi](http://https://platz
 > - niñita
 
 
+
 ## In this course we see everything💙
 > - All  git commands 
 >- The github workflow 
 >- The true love for good practices
 >- Crazy tricks of the teacher
 >- Freddy's multiples personalities 
+>- Created for PLatzi team
 
 This readme was created for *eduational and learning purposes*
